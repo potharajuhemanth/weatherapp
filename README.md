@@ -1,5 +1,5 @@
+**👑 Royal Weather-App
 
-👑 Royal Weather App
 Royal Weather App is a beautifully crafted fullscreen weather experience built with a luxurious theme. It combines real-time data from OpenWeatherMap with an interactive map interface and a regal UI, offering users both functionality and visual elegance.
 
 🌟 Features
