@@ -64,16 +64,22 @@ Open index.html in your browser and enjoy the royal experience.
 pgsql
 Copy
 Edit
-royal-weather-app/
+    royal-weather-app/
+
+    
 ├── index.html
+
 ├── css/
 │   └── style.css
+
 ├── js/
 │   └── app.js
+
 ├── assets/
 │   ├── fonts/
 │   ├── icons/
 │   └── images/
+
 └── README.md
 📸 More Screenshots
 Royal Theme	Dark Map Overlay	Glassmorphism Panel
